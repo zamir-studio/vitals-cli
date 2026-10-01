@@ -9,3 +9,5 @@
 //!
 //! This library never performs medical diagnosis; it only stores and
 //! summarizes user-provided data.
+
+pub(crate) mod domain;
